@@ -1,0 +1,66 @@
+body {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#header {
+	color: #4099FF;
+	font-family: Arial;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#tagline {
+	color: #3088FF;
+	font-size: 14px;
+	font-family: Georgia;
+	font-style: italic;
+}
+
+#usermessage {
+	width: 450px;
+	height: 20px;
+}
+
+#send {
+	width: 45px;
+	height: 25px;
+	margin-top: -5px;
+	color: white;
+	font-weight: bold;
+	background-color: #4099FF;
+	border-radius: 3px;
+	border-color: #3088FF;
+}
+
+#timeline {
+	margin-top: 5px;
+	height: 400px;
+	width: 650px;
+	border: 2px solid #50AAFF;
+	background-color: white;
+	overflow: auto;
+}
+
+.tweet {
+	font-family: Modern, Georgia, Times;
+	font-size: 15px;
+	color: #333333;
+	margin-left: 5px;
+	margin-top: 2px;
+}
+
+#popout {
+	position: absolute;
+	height: 400px;
+	width: 650px;
+	margin-left: 660px;
+	margin-top: -404px;
+	border: 2px solid #50AAFF;
+	background-color: white;
+	overflow: auto;
+}
+
+#selectuser {
+	margin-left: 155px;
+}
