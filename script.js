@@ -46,3 +46,8 @@ $(document).ready(function(){
     userTweet();
   }});
 });
+
+
+// $('parentElement').on('click', 'a.username', function(eventObj){
+//  // code 
+// });
